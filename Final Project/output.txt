@@ -1,0 +1,209 @@
+Run 1
+Average wait time: 2.796875
+Walked to 2nd floor: 75
+Walked to 3rd floor: 71
+Walked to 4th floor: 31
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 52
+Workers in line at 8:45 AM: 70
+Workers in line at 9:00 AM: 55
+
+Run 2
+Average wait time: 2.5923076923076924
+Walked to 2nd floor: 95
+Walked to 3rd floor: 89
+Walked to 4th floor: 40
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 45
+Workers in line at 8:45 AM: 70
+Workers in line at 9:00 AM: 59
+
+Run 3
+Average wait time: 2.607142857142857
+Walked to 2nd floor: 102
+Walked to 3rd floor: 86
+Walked to 4th floor: 43
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 42
+Workers in line at 8:45 AM: 72
+Workers in line at 9:00 AM: 56
+
+Run 4
+Average wait time: 2.5706106870229006
+Walked to 2nd floor: 96
+Walked to 3rd floor: 86
+Walked to 4th floor: 41
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 48
+Workers in line at 8:45 AM: 68
+Workers in line at 9:00 AM: 61
+
+Run 5
+Average wait time: 2.5472560975609757
+Walked to 2nd floor: 122
+Walked to 3rd floor: 70
+Walked to 4th floor: 41
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 47
+Workers in line at 8:45 AM: 67
+Workers in line at 9:00 AM: 56
+
+Run 6
+Average wait time: 2.536802030456853
+Walked to 2nd floor: 106
+Walked to 3rd floor: 81
+Walked to 4th floor: 38
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 40
+Workers in line at 8:45 AM: 65
+Workers in line at 9:00 AM: 59
+
+Run 7
+Average wait time: 2.5532608695652175
+Walked to 2nd floor: 106
+Walked to 3rd floor: 76
+Walked to 4th floor: 38
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 46
+Workers in line at 8:45 AM: 49
+Workers in line at 9:00 AM: 67
+
+Run 8
+Average wait time: 2.54467680608365
+Walked to 2nd floor: 114
+Walked to 3rd floor: 84
+Walked to 4th floor: 37
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 48
+Workers in line at 8:45 AM: 48
+Workers in line at 9:00 AM: 60
+
+Run 9
+Average wait time: 2.5591216216216215
+Walked to 2nd floor: 95
+Walked to 3rd floor: 88
+Walked to 4th floor: 40
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 42
+Workers in line at 8:45 AM: 49
+Workers in line at 9:00 AM: 65
+
+Run 10
+Average wait time: 2.54087089381207
+Walked to 2nd floor: 113
+Walked to 3rd floor: 92
+Walked to 4th floor: 35
+Time last worker got on: 8:57:0 AM
+Workers in line at 8:30 AM: 55
+Workers in line at 8:45 AM: 61
+Workers in line at 9:00 AM: 53
+
+Run 11
+Average wait time: 2.556557945870923
+Walked to 2nd floor: 113
+Walked to 3rd floor: 89
+Walked to 4th floor: 31
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 45
+Workers in line at 8:45 AM: 37
+Workers in line at 9:00 AM: 55
+
+Run 12
+Average wait time: 2.56198347107438
+Walked to 2nd floor: 101
+Walked to 3rd floor: 82
+Walked to 4th floor: 38
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 50
+Workers in line at 8:45 AM: 70
+Workers in line at 9:00 AM: 62
+
+Run 13
+Average wait time: 2.5470588235294116
+Walked to 2nd floor: 111
+Walked to 3rd floor: 92
+Walked to 4th floor: 36
+Time last worker got on: 8:57:0 AM
+Workers in line at 8:30 AM: 45
+Workers in line at 8:45 AM: 66
+Workers in line at 9:00 AM: 51
+
+Run 14
+Average wait time: 2.552401746724891
+Walked to 2nd floor: 96
+Walked to 3rd floor: 88
+Walked to 4th floor: 43
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 40
+Workers in line at 8:45 AM: 71
+Workers in line at 9:00 AM: 57
+
+Run 15
+Average wait time: 2.556008146639511
+Walked to 2nd floor: 103
+Walked to 3rd floor: 87
+Walked to 4th floor: 31
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 51
+Workers in line at 8:45 AM: 54
+Workers in line at 9:00 AM: 64
+
+Run 16
+Average wait time: 2.5610687022900764
+Walked to 2nd floor: 92
+Walked to 3rd floor: 93
+Walked to 4th floor: 44
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 57
+Workers in line at 8:45 AM: 74
+Workers in line at 9:00 AM: 63
+
+Run 17
+Average wait time: 2.5466006303466906
+Walked to 2nd floor: 96
+Walked to 3rd floor: 92
+Walked to 4th floor: 51
+Time last worker got on: 8:57:30 AM
+Workers in line at 8:30 AM: 56
+Workers in line at 8:45 AM: 58
+Workers in line at 9:00 AM: 52
+
+Run 18
+Average wait time: 2.545686357841054
+Walked to 2nd floor: 120
+Walked to 3rd floor: 75
+Walked to 4th floor: 35
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 53
+Workers in line at 8:45 AM: 66
+Workers in line at 9:00 AM: 57
+
+Run 19
+Average wait time: 2.556941649899396
+Walked to 2nd floor: 102
+Walked to 3rd floor: 87
+Walked to 4th floor: 47
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 49
+Workers in line at 8:45 AM: 62
+Workers in line at 9:00 AM: 49
+
+Run 20
+Average wait time: 2.5487199082919374
+Walked to 2nd floor: 97
+Walked to 3rd floor: 82
+Walked to 4th floor: 39
+No workers on at 9:00 AM
+Workers in line at 8:30 AM: 40
+Workers in line at 8:45 AM: 65
+Workers in line at 9:00 AM: 59
+
+-----OVERALL AVERAGES-----
+Wait time: 38.53646395356158 mins
+Walked to second floor: 102.75
+Walked to third floor: 84.5
+Walked to fourth floor: 38.95
+Waiting at 8:30 AM: 47.55
+Waiting at 8:45 AM: 62.1
+Waiting at 9:00 AM: 58.0
+Last time each day: ['No workers', 'No workers', 'No workers', 'No workers', 'No workers', 'No workers', 'No workers', 'No workers', 'No workers', '8:57:0 AM', 'No workers', 'No workers', '8:57:0 AM', 'No workers', 'No workers', 'No workers', '8:57:30 AM', 'No workers', 'No workers', 'No workers']
